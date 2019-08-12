@@ -39,7 +39,7 @@ namespace _1_TwoSum
                         ar[1] = j;
                         return ar;//
                     }
-                }
+                }//
             }
             return ar;
         }
