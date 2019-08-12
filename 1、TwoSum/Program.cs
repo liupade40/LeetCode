@@ -29,7 +29,7 @@ namespace _1_TwoSum
             int[] ar = new int[2];
             for (int i = 0; i < nums.Length; i++)//123132123
             {
-                for (int j = i + 1; j < nums.Length; j++)
+                for (int j = i + 1; j < nums.Length; j++)//1111
                 {
 
                     var sum = nums[i] + nums[j];
