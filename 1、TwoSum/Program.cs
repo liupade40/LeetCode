@@ -32,7 +32,7 @@ namespace _1_TwoSum
                 for (int j = i + 1; j < nums.Length; j++)
                 {
 
-                    var sum = nums[i] + nums[j];
+                    var sum = nums[i] + nums[j];//121212
                     if (sum == target)
                     {
                         ar[0] = i;
