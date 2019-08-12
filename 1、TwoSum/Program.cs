@@ -37,9 +37,9 @@ namespace _1_TwoSum
                     {//121212
                         ar[0] = i;
                         ar[1] = j;
-                        return ar;
+                        return ar;//
                     }
-                }
+                }//
             }
             return ar;
         }
