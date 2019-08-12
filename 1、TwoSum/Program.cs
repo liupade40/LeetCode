@@ -19,7 +19,7 @@ namespace _1_TwoSum
             {
                 foreach (var item in ar)
                 {
-                    Console.WriteLine(item);//
+                    Console.WriteLine(item);//1231231312313
                 }
             }
             Console.ReadKey();
