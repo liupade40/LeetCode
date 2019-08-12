@@ -27,7 +27,7 @@ namespace _1_TwoSum
         public static int[] TwoSum(int[] nums, int target)
         {
             int[] ar = new int[2];
-            for (int i = 0; i < nums.Length; i++)
+            for (int i = 0; i < nums.Length; i++)//123132123
             {
                 for (int j = i + 1; j < nums.Length; j++)
                 {
