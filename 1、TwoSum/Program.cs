@@ -34,7 +34,7 @@ namespace _1_TwoSum
 
                     var sum = nums[i] + nums[j];//121212
                     if (sum == target)
-                    {//1212
+                    {//121212
                         ar[0] = i;
                         ar[1] = j;
                         return ar;
