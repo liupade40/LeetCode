@@ -13,13 +13,13 @@ namespace _1_TwoSum
             var ar = TwoSum(new int[] { 1, 2, 3, 4, 5 }, 3);
             if (ar.Length == 0)
             {
-                Console.WriteLine("Not Found");//这里是我改的
+                Console.WriteLine("Not Found");//123456
             }
             else
             {
                 foreach (var item in ar)
                 {
-                    Console.WriteLine(item);//1231231312313
+                    Console.WriteLine(item);//1111
                 }
             }
             Console.ReadKey();
