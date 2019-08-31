@@ -13,7 +13,7 @@ namespace _1_TwoSum
             var ar = TwoSum(new int[] { 1, 2, 3, 4, 5 }, 3);
             if (ar.Length == 0)
             {
-                Console.WriteLine("Not Found");//123456
+                Console.WriteLine("Not Found");//123123
             }
             else
             {
