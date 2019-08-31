@@ -16,7 +16,7 @@ namespace _2_AddTwoNumbers
             var l2 = new ListNode(0);
             //l2.next = new ListNode(6);
             //l2.next.next = new ListNode(4);
-            new Solution().AddTwoNumbers(l1, l2);
+            new Solution().AddTwoNumbers(l1, l2);//zheci tianjia de 
             Console.ReadKey();
         }
 
